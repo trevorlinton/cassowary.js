@@ -1,0 +1,12 @@
+{
+  "name": "oc-perf-prototype",
+  "version": "0.0.1",
+  "dependencies": {
+    "compression": "^1.4.0",
+    "express": "^4.11.2"
+  },
+  "engines": {
+    "node": "0.12.0",
+    "npm": "^2.0.0"
+  }
+}
