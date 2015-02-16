@@ -1,1 +1,1 @@
-web: sh http-server .
+web: node server.js
