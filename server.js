@@ -6,7 +6,7 @@
 var DOCUMENT_ROOT = './';
 var DIRECTORY_INDEX = '/index.html';
 
-var port = process.env.PORT || 8080;
+var port = process.env.PORT || 80;
 
 var zlib = require('zlib');
 var http = require('http');
